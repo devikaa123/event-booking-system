@@ -206,7 +206,9 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 # SQLite database
+*.db
 test.db
+
 
 # Local Stripe folders (sometimes generated)
 .stripe/
